@@ -19,7 +19,12 @@ The expert realized that this is a classic feature selection problem, where the 
 
 
 Accuracy = 0.6590909090909091
+
 Features coefficients: [1.30785643 3.85290787 4.3663705  1.14509107]
+
 Best predictive feature: {'K': 4.366370497401486}
+
 Minimized accuracy = 0.24545454545454545
+
 Features coefficients: [9.11203258]
+
